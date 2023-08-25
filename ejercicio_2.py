@@ -1,3 +1,7 @@
+# Write a function which calculates the average of the numbers in a given list.
+
+# Note: Empty arrays should return 0.
+
 def find_average(numbers):
     g = 0
     c = 0
@@ -10,6 +14,6 @@ def find_average(numbers):
     else:
         return g/c
     
-l = [1,2]
+l = []
 
 print(find_average(l))
