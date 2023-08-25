@@ -1,2 +1,0 @@
-"Chanchito Feliz"
-"Hola mundo"
