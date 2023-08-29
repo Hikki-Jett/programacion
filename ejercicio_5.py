@@ -9,11 +9,11 @@ def max_in_list(lista):
     y = 0
     for x in lista:
         if y > x:
-            break
+            ""
         elif y <= x:
             y = x
     return y
 
-lista = [1,8,5,4]
+lista = [-2,1]
 
 print(max_in_list(lista))
